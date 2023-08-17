@@ -1,2 +1,11 @@
 # Weather_App
-Welcome to my Weather App GitHub repository! This project showcases my passion for web development, as I've harnessed the power of JavaScript, CSS, and HTML to create an intuitive and visually appealing weather application. With a user-friendly interface, the app provides real-time weather updates, enabling users to seamlessly access accurate forecasts at their fingertips. The dynamic integration of JavaScript ensures smooth data retrieval and manipulation, while CSS and HTML collaborate to deliver a polished and engaging user experience. Whether you're a weather enthusiast or simply seeking a practical tool, this Weather App reflects my dedication to crafting functional and aesthetically pleasing web solutions. Feel free to explore the code and functionalities, and don't hesitate to provide feedback or suggestions for further enhancement. Your interaction with my Weather App is a testament to my ongoing journey in web development and my commitment to creating impactful digital experiences.
+Check the weather around you and all over the world at a glance.
+Rely on the accurate weather forecast and adjust your schedule to the weather coming in. You won’t even have to look out the window as the app will make you feel like you are already outside!
+
+Weather is sometimes difficult to predict. This accurate weather app allows to find out a detailed forecast wherever you are, for any time of the day by tapping on the icons:
+- Current temperature
+- Wind speed and direction
+- Pressure and precipitation information
+- Cloud
+
+<p align="center"><b>Created by Ridhesh</b></p>
